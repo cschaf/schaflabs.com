@@ -41,4 +41,11 @@
         "icon": "❔", 
         "hasGhPages": true 
     },
+    { 
+        "id": 7, 
+        "title": "Bremo Nexus Immobilien", 
+        "repo": "cschaf/BremoNexus", 
+        "icon": "🏘️", 
+        "hasGhPages": true 
+    },
 ]
