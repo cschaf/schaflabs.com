@@ -33,5 +33,12 @@
         "repo": "Mimo659/agiqui", 
         "icon": "✔️", 
         "hasGhPages": true 
-    }
+    },
+    { 
+        "id": 6, 
+        "title": "Quiz Master", 
+        "repo": "cschaf/quiz-master", 
+        "icon": "❔", 
+        "hasGhPages": true 
+    },
 ]
