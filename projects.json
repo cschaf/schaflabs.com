@@ -47,5 +47,13 @@
         "repo": "cschaf/BremoNexus", 
         "icon": "🏘️", 
         "hasGhPages": true 
-    }
+    },
+    { 
+        "id": 8, 
+        "title": "Energie Akku", 
+        "repo": "cschaf/Energy-Akku", 
+        "icon": "🔋", 
+        "hasGhPages": true 
+    },    
+    
 ]
